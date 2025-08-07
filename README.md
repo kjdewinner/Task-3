@@ -1,6 +1,6 @@
 # Task-3
 Perform a Basic Vulnerability Scan on Your PC.
-# What I Learn
+# What I've Learned
 How to find security weaknesses on our system
 
 Regular scans help identify hidden threats early.
