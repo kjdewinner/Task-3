@@ -20,4 +20,9 @@ Scan Type: Basic Network Scan
 Set up a weekly scan schedule.
 
 Explore using OpenVAS via a Kali Linux VM or Docker
+# Sample output
+<img width="1919" height="946" alt="nessus" src="https://github.com/user-attachments/assets/9d895cf8-337f-42bc-b75f-1b54a3e8aec1" />
+
+
+
 
